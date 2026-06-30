@@ -13,8 +13,8 @@
 <h3 align="left">🏆 Featured Open Source Contributions</h3>
 <ul>
   <li>
-    <b><a href="https://github.com/codeboost-tr/Crisp">Crisp</a></b>: Advanced cross-platform desktop application porting. 
-    <br/><i>Highlights</i>: Achieved 1:1 macOS-to-Windows OS parity, tackled complex C# Avalonia UI edge-cases, resolved Python / FFmpeg audio/video processing bugs, and implemented precise Windows binary dependency resolution.
+    <b>Advanced Cross-Platform Desktop Porting</b> 
+    <br/><i>Highlights</i>: Achieved 1:1 macOS-to-Windows OS parity for a major desktop application, tackled complex C# Avalonia UI edge-cases, resolved Python / FFmpeg audio/video processing bugs, and implemented precise Windows binary dependency resolution.
   </li>
 </ul>
 
