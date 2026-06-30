@@ -10,6 +10,14 @@
 - 🛠️ Expertise in **Python, Go, JavaScript, C#, Next.js, React Native**, and modern infrastructure.
 - 💡 Passionate about **Open Source** and clean architecture.
 
+<h3 align="left">🏆 Featured Open Source Contributions</h3>
+<ul>
+  <li>
+    <b><a href="https://github.com/codeboost-tr/Crisp">Crisp</a></b>: Advanced cross-platform desktop application porting. 
+    <br/><i>Highlights</i>: Achieved 1:1 macOS-to-Windows OS parity, tackled complex C# Avalonia UI edge-cases, resolved Python / FFmpeg audio/video processing bugs, and implemented precise Windows binary dependency resolution.
+  </li>
+</ul>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
